@@ -4,22 +4,6 @@ This repository contains Machine Learning laboratory experiments completed as pa
 
 ---
 
-## Repository Structure
-
-```text
-ML-Lab/
-│
-├── Lab-01/
-│   └── ML_Lab1_KNN_Iris.ipynb
-│
-├── Lab-02/
-│   └── ML_Lab2_Baseline_Modelling.ipynb
-│
-└── README.md
-```
-
----
-
 ## Lab 01 - Build and Test Your First ML Classifier
 
 ### Objective
